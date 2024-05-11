@@ -1,0 +1,40 @@
+.website{
+    background-color: orange;
+}
+
+#about{
+    font-size: 26px;
+}
+
+.image{
+    height: 50%;
+    width: 20%;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: flex-end;
+    background-color: brown;
+    height: 200px;
+}
+
+.flex_col {
+    background-color: aqua;
+    margin: 10px;
+}
+
+.grid-container {
+    display: grid;
+    background-color: blueviolet;
+    grid-template-columns: 100px 100px ;
+    grid-template-rows: 100px 100px 100px;
+}
+
+.grid_item {
+    background-color: purple;
+    margin: 10px;
+}
